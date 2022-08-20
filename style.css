@@ -1,0 +1,93 @@
+body {
+    width: 900px;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+  }
+  header{
+    width: 800px;
+  }
+  .line{
+     border-bottom: 10px solid #ccc;
+     display: block;
+  }
+  h1{
+    font-family: 'Pacifico', cursive;
+    font-size: 38px;
+    position: relative;
+    top: -2px; left: 10px;
+  
+    display: inline-block;
+  }
+  
+  
+  #the-best{
+    font-family: 'Krub', sans-serif;
+    display: inline-block;
+  
+    color: gray;
+    Font-size: 11px;
+    position: relative;
+    top: 11px; left: -135px;
+  
+  }
+  #two-icon{
+    position: relative;
+    top: 50px; left: 98px;
+    display: inline-block;
+    float: right;
+  
+  
+  }
+  
+  #big-fork{
+    position: relative;
+  top: 10px; left: 10px;
+  }
+  #print{
+    padding-left: 850px;
+    height: 12px;
+    width: 12px;
+  }
+  #icons{
+    display: inline-block;
+    float: right;
+    position: relative;
+  top: 50px; left: 86px;
+  }
+
+  p
+  {
+    color: gray;
+
+  }
+  .end{
+    text-align: center;
+  }
+
+
+
+  .container {
+    position: relative;
+  }
+  
+  /* Bottom right text */
+  .text-block {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    
+    color: black;
+    padding-left: 30px;
+    padding-right: 20px;
+  }
+
+  .text-block2 {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    
+    color: black;
+    padding-left: 30px;
+    padding-right: 70px;
+  }
